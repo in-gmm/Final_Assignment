@@ -224,5 +224,3 @@ line_fig=px.line(line_data, x='Month', y='AirTime',color='Reporting_Airline', ti
 # Run the app
 if __name__ == '__main__':
     app.run_server()
-    pip3 install pandas dash
-    python3 5_Peer_Graded_Assignment_Questions.py
